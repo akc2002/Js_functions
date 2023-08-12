@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> Try It Yourself </title>
+</head>
+<body>
+   <div onclick="changeColor(this)" style="background-color: red;">
+      Tap me to change my color!
+   </div>
+</body>
+</html>
